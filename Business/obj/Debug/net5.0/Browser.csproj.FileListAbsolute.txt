@@ -1,0 +1,12 @@
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Browser.deps.json
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Browser.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\ref\Browser.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Browser.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.csprojAssemblyReference.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.AssemblyInfoInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.AssemblyInfo.cs
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.csproj.CoreCompileInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\ref\Browser.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Browser.pdb

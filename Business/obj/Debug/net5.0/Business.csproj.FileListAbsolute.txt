@@ -1,0 +1,24 @@
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Business.deps.json
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Business.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\ref\Business.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Business.pdb
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\ref\Business.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Business.deps.json
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Business.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\ref\Business.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\bin\Debug\net5.0\Business.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\ref\Business.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\Business\obj\Debug\net5.0\Business.pdb
