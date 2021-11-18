@@ -1,0 +1,50 @@
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.exe
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.deps.json
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.runtimeconfig.json
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.runtimeconfig.dev.json
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.dll
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\ref\WpfApp.dll
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.pdb
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.csproj.AssemblyReference.cache
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\App.g.cs
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp_MarkupCompile.cache
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp_MarkupCompile.lref
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.g.resources
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.AssemblyInfoInputs.cache
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.AssemblyInfo.cs
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.dll
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\ref\WpfApp.dll
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.pdb
+D:\Study\SPP\browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.genruntimeconfig.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\Business.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\Business.pdb
+D:\Study\SPP\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.csproj.CopyComplete
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.exe
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.deps.json
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.runtimeconfig.json
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.runtimeconfig.dev.json
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\ref\WpfApp.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\WpfApp.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.csprojAssemblyReference.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\App.g.cs
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp_MarkupCompile.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp_MarkupCompile.lref
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.g.resources
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.AssemblyInfoInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.AssemblyInfo.cs
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.csproj.CopyComplete
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\ref\WpfApp.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\obj\Debug\net5.0-windows\WpfApp.genruntimeconfig.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\Browser.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\WpfApp\bin\Debug\net5.0-windows\Browser.pdb
