@@ -1,0 +1,24 @@
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\TestAssembly.deps.json
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\TestAssembly.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\ref\TestAssembly.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\TestAssembly.pdb
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.csproj.AssemblyReference.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.AssemblyInfoInputs.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.AssemblyInfo.cs
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.csproj.CoreCompileInputs.cache
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\ref\TestAssembly.dll
+D:\Study\SPP\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\TestAssembly.deps.json
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\TestAssembly.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\ref\TestAssembly.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\bin\Debug\net5.0\TestAssembly.pdb
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.csprojAssemblyReference.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.AssemblyInfoInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.AssemblyInfo.cs
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.csproj.CoreCompileInputs.cache
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\ref\TestAssembly.dll
+D:\study\pasha cpp\Browser2\AssemblyBrowser\TestAssembly\obj\Debug\net5.0\TestAssembly.pdb
